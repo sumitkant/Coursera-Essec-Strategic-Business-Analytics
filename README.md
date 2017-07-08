@@ -1,2 +1,2 @@
 # Strategic-Business-Analytics-Essec
-Each chapter is in a seperate folder
+Refer to wiki for notes
